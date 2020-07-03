@@ -1,5 +1,4 @@
 # K-Means_Python
-Using K-Means to cluster Universities into two groups, Private and Public.
 
 Use K-Means to cluster Universities into two groups, Private and Public.
 
